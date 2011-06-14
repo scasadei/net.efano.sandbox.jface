@@ -3,7 +3,7 @@ Bundle-ManifestVersion: 2
 Bundle-Name: JfaceSelftut
 Bundle-SymbolicName: com.efano.selftut.jface
 Bundle-Version: 1.0.0.qualifier
-Bundle-Activator: com.efano.selftut.jface.Activator
+Bundle-Activator: net.efano.sandbox.jface.Activator
 Bundle-Vendor: EFANO
 Require-Bundle: org.eclipse.core.runtime,
  org.eclipse.jface.databinding;bundle-version="1.4.0",
