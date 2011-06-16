@@ -1,7 +1,7 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
-Bundle-Name: JfaceSelftut
-Bundle-SymbolicName: com.efano.selftut.jface
+Bundle-Name: jfaceInSandbox
+Bundle-SymbolicName: net.efano.sandbox.jface
 Bundle-Version: 1.0.0.qualifier
 Bundle-Activator: net.efano.sandbox.jface.Activator
 Bundle-Vendor: EFANO
